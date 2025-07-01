@@ -1,0 +1,7 @@
+INFO:root:Log de Teste
+CRITICAL:root:Erro grave
+ERROR:root:Error
+WARNING:root:Warning
+INFO 2025-05-29 12:44:23,416 - Log de Teste
+CRITICAL 2025-05-29 12:44:23,416 - Erro grave
+ERROR 2025-05-29 12:44:23,416 - Error
